@@ -1,2 +1,2 @@
 # Competitions
-Kaggle, PAKDD, etc
+Kaggles
